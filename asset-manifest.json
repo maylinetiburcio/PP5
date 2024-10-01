@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/PP5/static/css/main.0d23bff5.css",
+    "main.js": "/PP5/static/js/main.8c4f38c8.js",
+    "static/media/homepic.png": "/PP5/static/media/homepic.57b81917aeebb4779c2e.png",
+    "static/media/sweet&sour.png": "/PP5/static/media/sweet&sour.a67971c81833d5b300c8.png",
+    "static/media/porkchops.png": "/PP5/static/media/porkchops.44b3772b64881573cf5f.png",
+    "static/media/bestseller.png": "/PP5/static/media/bestseller.23fa9db6bc46852b27d5.png",
+    "static/media/slider.png": "/PP5/static/media/slider.b823b214ff35a6b1ea48.png",
+    "static/media/dumplings.png": "/PP5/static/media/dumplings.790655a1d3792ae28d4b.png",
+    "static/media/homelogo.png": "/PP5/static/media/homelogo.04e1029bb317fca18997.png",
+    "static/media/delivery1.png": "/PP5/static/media/delivery1.b416703d684892b5f285.png",
+    "static/media/aboutus-text1.png": "/PP5/static/media/aboutus-text1.f9797ad373f8e2e335eb.png",
+    "static/media/order.png": "/PP5/static/media/order.a9daf51f76946bb1af74.png",
+    "static/media/call.png": "/PP5/static/media/call.34878209eb09cb5a94b6.png",
+    "static/media/aboutus-text2.png": "/PP5/static/media/aboutus-text2.26dba848ca5137f5bf74.png",
+    "static/media/address.png": "/PP5/static/media/address.2ed45d39e57a2cd313c3.png",
+    "static/media/cloud.png": "/PP5/static/media/cloud.c3e037f89c85396b04b6.png",
+    "index.html": "/PP5/index.html",
+    "main.0d23bff5.css.map": "/PP5/static/css/main.0d23bff5.css.map",
+    "main.8c4f38c8.js.map": "/PP5/static/js/main.8c4f38c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d23bff5.css",
+    "static/js/main.8c4f38c8.js"
+  ]
+}
